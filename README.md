@@ -33,7 +33,10 @@ Lua-скрипт для GTA San Andreas: SA-MP (сервер LSRP) на MoonLoad
 ### Видео
 
 
-https://github.com/user-attachments/assets/266f1aec-3323-4bad-ab2c-fb1a011e7c32
+<div style="max-width: 640px; margin: 0 auto;">
+  <video src="https://github.com/user-attachments/assets/266f1aec-3323-4bad-ab2c-fb1a011e7c32" controls></video>
+</div>
+
 
 
 ### Статус
@@ -75,7 +78,9 @@ Developed in 2024–2025 as a personal tool for speeding up word-based mini-game
 
 ### Video
 
-https://github.com/user-attachments/assets/266f1aec-3323-4bad-ab2c-fb1a011e7c32
+<div style="max-width: 640px; margin: 0 auto;">
+  <video src="https://github.com/user-attachments/assets/266f1aec-3323-4bad-ab2c-fb1a011e7c32" controls></video>
+</div>
 
 
 ### Status
