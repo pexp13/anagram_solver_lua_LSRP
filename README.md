@@ -25,24 +25,16 @@ Lua-скрипт для GTA San Andreas: SA-MP (сервер LSRP) на MoonLoad
 - Алгоритмы: рекурсивные перестановки, словарный lookup, парсинг строк
 
 ### Установка
-1. Установи MoonLoader и необходимые библиотеки (samp.events, imgui, sampfuncs).
-2. Скопируй скрипт в папку moonloader/
-3. Положи файл words.txt рядом со скриптом (пример словаря прилагается)
-4. Запусти игру → в чате введи /j для открытия меню
+1. Установить MoonLoader и необходимые библиотеки (samp.events, imgui, sampfuncs).
+2. Скопировать скрипт в папку moonloader/
+3. Положить файл words.txt рядом со скриптом (пример словаря прилагается)
+4. Запустить игру → в чате введи /j для открытия меню
 
-### Пример работы
-1. В мини-игре появляется набор букв (например "elap").
-2. Нажми кнопку "Extract Text from Textdraw" — скрипт берёт текст из TextDraw 2064.
-3. Нажми "Find Words" — появляются кнопки: "leap", "plea", "pale" и т.д.
-4. Клик по кнопке — слово отправляется в чат как `/uns leap`.
+### Видео
 
-### Навыки, которые демонстрирует проект
-- Обработка и очистка строк (string manipulation, gsub, match)
-- Рекурсивные алгоритмы и генерация комбинаций
-- Работа со словарями / хэш-таблицами для быстрого поиска и дедупликации
-- Парсинг игровых данных (TextDraw)
-- Создание простого GUI в ограниченной среде (ImGui)
-- Автоматизация ввода в игру
+
+https://github.com/user-attachments/assets/266f1aec-3323-4bad-ab2c-fb1a011e7c32
+
 
 ### Статус
 Личный проект, не предназначен для использования на серверах, где запрещены подобные инструменты.  
@@ -81,21 +73,10 @@ Developed in 2024–2025 as a personal tool for speeding up word-based mini-game
 3. Place words.txt in the same folder (sample dictionary included)
 4. Launch game → type /j in chat to toggle menu
 
-### Usage Example
-1. Mini-game shows a set of letters (e.g., "elap").
-2. Click "Extract Text from Textdraw" — script grabs it from TextDraw 2064.
-3. Click "Find Words" — buttons appear: "leap", "plea", "pale", etc.
-4. Click a button → word sent to chat as `/uns leap`.
+### Video
 
+https://github.com/user-attachments/assets/266f1aec-3323-4bad-ab2c-fb1a011e7c32
 
-
-### Skills Demonstrated
-- String manipulation & cleaning (gsub, match, lower)
-- Recursive algorithms & combinatorial generation
-- Dictionary/hash-based filtering & deduplication
-- Parsing game UI data (TextDraw extraction)
-- Simple GUI creation in constrained environment (ImGui)
-- Input automation & scripting
 
 ### Status
 Personal project, not intended for use on servers where such tools are prohibited.  
