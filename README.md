@@ -36,8 +36,6 @@ Lua-скрипт для GTA San Andreas: SA-MP (сервер LSRP) на MoonLoad
 3. Нажми "Find Words" — появляются кнопки: "leap", "plea", "pale" и т.д.
 4. Клик по кнопке — слово отправляется в чат как `/uns leap`.
 
-(добавь сюда скриншот или ссылку на видео, если есть)
-
 ### Навыки, которые демонстрирует проект
 - Обработка и очистка строк (string manipulation, gsub, match)
 - Рекурсивные алгоритмы и генерация комбинаций
@@ -89,7 +87,7 @@ Developed in 2024–2025 as a personal tool for speeding up word-based mini-game
 3. Click "Find Words" — buttons appear: "leap", "plea", "pale", etc.
 4. Click a button → word sent to chat as `/uns leap`.
 
-(Add screenshot or video link here)
+
 
 ### Skills Demonstrated
 - String manipulation & cleaning (gsub, match, lower)
